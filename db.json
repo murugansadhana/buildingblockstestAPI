@@ -1,7 +1,8 @@
 {
   "users": [{
+    "id": 1
     "name": "typicode",
     "email": "test1@gmail.com",
-    "files": []
+    "files": ["https://placebear.com/g/200/200"]
   }]
 }
