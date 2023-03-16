@@ -1,7 +1,7 @@
 {
-  "users": {
+  "users": [{
     "name": "typicode",
     "email": "test1@gmail.com",
     "files": []
-  }
+  }]
 }
